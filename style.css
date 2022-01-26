@@ -1,0 +1,74 @@
+/*Sayfanın Tamamı*/
+.container{
+    width: 794px;
+    height: 500px;
+    margin:auto;
+}
+
+/*Google Beta Fotoğrafının Olduğu Kısım*/
+.title{ 
+    width: 794px;
+    height: 100px;
+}
+
+img{
+    width: 594px;
+    height: 100px;
+    vertical-align: middle;
+    border-style: none;
+    margin:0px 100px;
+    
+}
+
+/*Google Betanın Altında Yer Alan Bölüm*/
+.navbar{
+    width: 794px;
+    height: 100px;
+    background-color: #CCD1D1;
+    text-align: center;
+   
+
+}
+
+ul>li{
+    list-style-type: none;
+}
+
+/*İçerisinde 3 ayrı kutu daha barındıran kısım*/
+.content{
+    width: 794px;
+    height: 200;
+    float:left;
+}
+
+.content1{
+    width:296px;
+    height: 200px;
+    float:left;
+    margin: 2px 2px 0px 0px;
+    
+    background-color: #A3E4D7;
+}
+.content2{
+    width:296px;
+    height: 200px;
+    float:left;
+    margin: 2px 2px 0px 0px;
+    background-color: #76D7C4;
+}
+
+.content3{
+    width:198px;
+    height: 200px;
+    float:left;
+    margin: 2px 0px 0px 0px;
+    background-color:#48C9B0 ;
+}
+
+/* Copyrightın yazdığı kısım*/
+.footer{
+    width:794px;
+    height: 100px;
+    text-align: center;
+}
+
